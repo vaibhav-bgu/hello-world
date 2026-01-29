@@ -1,3 +1,2 @@
 # hello-world
-Practicing github flow
-I like winters!
+My first project on gh
