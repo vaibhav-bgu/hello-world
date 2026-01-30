@@ -3,7 +3,7 @@ import pytest
 import numpy as np
 import torch
 def test_floats():
-    assert (0.1 + 0.2) == pytest.approx(0.3)
+    assert (0.1 + 0.2) == pytest.approx(0.4)
 
 
 def test_arrays():
